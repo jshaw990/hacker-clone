@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { ThemeProvider } from 'styled-components';
-import List from 'components/Lists';
+import List from 'components/List';
 import { coloursDark } from 'styles/palette';
 
 import { Wrapper, Title } from './styles';
