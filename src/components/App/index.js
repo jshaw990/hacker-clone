@@ -1,4 +1,4 @@
-import { connect } from "react-redux";
+import { connect } from 'react-redux';
 import actions from 'store/story/actions';
 import App from './App';
 
