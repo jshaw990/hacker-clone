@@ -1,6 +1,6 @@
 import url from 'url';
 
-const getSiteHostname = siteUr; => {
+const getSiteHostname = siteUrl => {
     let hostname = '';
 
     if (siteUrl) {
